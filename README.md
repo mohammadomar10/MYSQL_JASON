@@ -28,8 +28,8 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 myql-logo  
 
 **Project Result**
-
-Click here to get full code
+https://github.com/mohammadomar10/MOVIES-RENTAL-SQL-PROJECT/blob/main/CODES.sql
+Click here to get full code 
 
 **Query Task**
 
